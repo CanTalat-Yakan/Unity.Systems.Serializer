@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.Serializer",
+    "name": "UnityEssentials.Systems.Serializer",
     "rootNamespace": "UnityEssentials",
     "references": [],
     "includePlatforms": [],
